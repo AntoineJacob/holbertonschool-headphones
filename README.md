@@ -7,7 +7,7 @@ You won’t have a lot of instruction, you are free to implement it the way that
 
 Here the final result: 
 
-![App Screenshot](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/2/60df485eb772ecbad54a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240429%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240429T073712Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=c55213307e017697355b50c53f6a3d1995620e8b08cea75eb7584f5ff0eeeadd)
+![alt text](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/2/60df485eb772ecbad54a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240429%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240429T073712Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=c55213307e017697355b50c53f6a3d1995620e8b08cea75eb7584f5ff0eeeadd)
 ## Requirements
 
 - you are not allowed to import external CSS framework (like Bootstrap)
@@ -91,4 +91,4 @@ Last piece of the page… the Footer!
 
 When you are done, here the result:
 
-![App Screenshot](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/3/83d6311e87d4775ca4b3.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240429%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240429T073712Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=1bfe4efe032ab8712f51aafa23e8911a37a0b6ef53948e75d0102973a88d6093)
+![alt text](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/3/83d6311e87d4775ca4b3.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240429%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240429T073712Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=1bfe4efe032ab8712f51aafa23e8911a37a0b6ef53948e75d0102973a88d6093)
